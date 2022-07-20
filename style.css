@@ -162,7 +162,7 @@ hr {
     /* border-left: 50px;
     border-right: 50px; */
     background-color: #161616;
-    padding-bottom: 130px;
+    padding-bottom: 80px;
     padding-top: 50px;
     margin-left: 50px;
     margin-right: 50px;
@@ -176,6 +176,18 @@ h2 {
 .footer_button {
     margin-left: auto;
     margin-right: auto;
+}
+
+.media {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+    color: #FFFFFF;
+    padding-bottom: 70px;
+}
+
+div>a>i {
+    color: #FFFFFF;
 }
 
 /* -------------------------------------
